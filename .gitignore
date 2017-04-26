@@ -27,6 +27,7 @@ bin/
 #IDEA
 .idea/
 *.iml
+out
 
 #Eclipse
 .classpath
