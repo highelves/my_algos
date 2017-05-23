@@ -1,5 +1,4 @@
-#include<cstdio>
-using namespace std;
+#include"../config/stdc++.h"
 int main(){
   int n;
   scanf("%d",&n);
